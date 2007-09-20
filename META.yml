@@ -1,0 +1,17 @@
+--- #YAML:1.0
+name:                Template-Multipass
+version:             0.01
+abstract:            ~
+license:             ~
+generated_by:        ExtUtils::MakeMaker version 6.32
+distribution_type:   module
+requires:     
+    Data::Visitor:                 0.08
+    Path::Class:                   0
+    Template:                      2.19
+    Test::Exception:               0
+    Test::More:                    0.47
+    Test::use::ok:                 0
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.2.html
+    version: 1.2
