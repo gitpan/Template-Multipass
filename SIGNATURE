@@ -14,17 +14,17 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 2fd98e8ed46300980b1e4e3618e2b634eeffd0a5 Changes
+SHA1 e6112ccd83678bc32c0ba9965d7e287473383b3d Changes
 SHA1 27b5ca3ee4b68c9a6f39ef6863a38b3a918958f7 MANIFEST
-SHA1 565cf8a6a56fc5e9a0ea945160a4bf97f1a14d37 META.yml
+SHA1 24af0248afde70bcca85dae96ccd3038d6141299 META.yml
 SHA1 c71c38d9897f6cb42e9219b1a5922f72efc7648f Makefile.PL
 SHA1 55cfa2ba8a07ab2ca72b558c2a14c4ec00825a11 README
-SHA1 6a3720ef0045cbca7f84e404b4c14ba129b3ce3f lib/Template/Multipass.pm
+SHA1 7ea1399fb5332d5d9e69d9541e87b2b5dc7d7ecf lib/Template/Multipass.pm
 SHA1 34a88151323803bfa204b7408f04dfb4aebb4ee9 lib/Template/Multipass/Provider.pm
 SHA1 46682b793bc7fd1f32820f1f53c47da6bfd14872 t/00_use.t
 SHA1 9cde2d9aa1a8b9279d51260d653cece67ab0b1f3 t/01_basic.t
 SHA1 8595a120de01ee38000dc3bee519b7077a8f49c8 t/02_perf.t
-SHA1 24b477122eb5baa6c396b52af2eac6b4efb8ac22 t/03_misc.t
+SHA1 ced96ffe1c5974b4173f225cabdcd72e5f68f0ba t/03_misc.t
 SHA1 a9b12dc1a5e8e033ce6bf9e56d9b4dbb8ece6153 t/04_errors.t
 SHA1 6ab3ed743a2f577282711b466e86debda6831f7b t/templates/bar.tt
 SHA1 9e600399d5c0e93037a89d512c7184faa7e45ce8 t/templates/bar_meta.tt
@@ -36,7 +36,7 @@ SHA1 8c9a20d2ef51c0b69b54dfa99de9723c8fbfafe2 t/templates/wrapper_test.tt
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.7 (Darwin)
 
-iD8DBQFG8uPDVCwRwOvSdBgRAmp5AJ4zHqISwjBUNtIeNZ9Bk91h5FMNIQCfaXKg
-YsayNm9nlx+klkd7LY95v5Q=
-=sCrT
+iD8DBQFH1DyCVCwRwOvSdBgRAiHMAJ0Q3U83CfHAcg31rIuPfsYUsNhsKACgqswY
+NA/ivpFiUWbqhECpBlY5EBo=
+=DRS/
 -----END PGP SIGNATURE-----
