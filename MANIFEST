@@ -15,6 +15,7 @@ t/templates/foo.tt
 t/templates/include.tt
 t/templates/process.tt
 t/templates/wrapper.tt
+t/templates/wrapper2.tt
 t/templates/wrapper_test.tt
 META.yml                                 Module meta-data (added by MakeMaker)
 SIGNATURE                                Public-key signature (added by MakeMaker)
